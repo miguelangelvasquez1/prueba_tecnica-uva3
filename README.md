@@ -15,7 +15,7 @@ Aplicación web para gestionar tareas personales construida con Laravel.
 
 1. Clonar el repositorio:
 ```bash
-   git clone https://github.com/tu-usuario/gestion-tareas.git
+   git clone [link](https://github.com/miguelangelvasquez1/prueba_tecnica-uva3.git)
    cd gestion-tareas
 ```
 
