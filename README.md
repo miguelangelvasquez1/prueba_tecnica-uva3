@@ -13,10 +13,12 @@ Aplicación web para gestionar tareas personales construida con Laravel.
 
 ## Pasos para correr localmente
 
+Cabe aclarar que antes de intentar instalar las dependencias se debe tener php y composer instalado.
+
 1. Clonar el repositorio:
 ```bash
-   git clone [link](https://github.com/miguelangelvasquez1/prueba_tecnica-uva3.git)
-   cd gestion-tareas
+   git clone https://github.com/miguelangelvasquez1/prueba_tecnica-uva3.git
+   cd prueba_tecnica-uva3
 ```
 
 2. Instalar dependencias:
@@ -33,7 +35,7 @@ Aplicación web para gestionar tareas personales construida con Laravel.
 
 4. Crear base de datos y migrar:
 ```bash
-   touch database/database.sqlite
+   touch database/database.sqlite (Crear manualmente si no se esta en un entorno Unix)
    php artisan migrate
 ```
 
