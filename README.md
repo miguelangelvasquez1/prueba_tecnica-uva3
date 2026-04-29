@@ -45,3 +45,9 @@ Cabe aclarar que antes de intentar instalar las dependencias se debe tener php y
 ```
 
 6. Abrir en el navegador: [http://localhost:8000](http://localhost:8000)
+
+
+## Link de despliegue
+Se realizo el despliegue del proyecto en la plataforma railway. Se puede acceder desde el siguiente link:
+[pruebatecnica-uva3-production.up.railway.app](https://pruebatecnica-uva3-production.up.railway.app)
+
